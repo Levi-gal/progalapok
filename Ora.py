@@ -17,3 +17,6 @@ for i in range(0, 801, 3):
 for i in range(1, 6):
     a=a+c
     print(a)
+    
+for i in range(20, 41 ,5):
+    print(i)
